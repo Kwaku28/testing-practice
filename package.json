@@ -1,0 +1,19 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watchAll *.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.21.2"
+  }
+}
